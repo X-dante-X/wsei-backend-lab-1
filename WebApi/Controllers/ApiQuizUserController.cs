@@ -11,10 +11,13 @@ namespace WebApi.Controllers;
 public class ApiQuizUserController : ControllerBase
 {
     private readonly IQuizUserService _service;
+    private readonly IMapper _mapper;
 
-    public ApiQuizUserController(IQuizUserService service)
+
+    public ApiQuizUserController(IQuizUserService service, IMapper mapper)
     {
         _service = service;
+        _mapper = mapper;
     }
 
     [Route("{id}")]
@@ -50,22 +53,9 @@ public class ApiQuizUserController : ControllerBase
 
     [Route("{quizId}/answers/{userId}")]
     [HttpGet]
-    public ActionResult<object> GetQuizFeedback(int quizId, int userId)
+    public ActionResult<QuizFeedbackDto> GetQuizFeedback(int quizId, int userId)
     {
         var feedback = _service.GetUserAnswersForQuiz(quizId, userId);
-        return new
-        {
-            quizId = quizId,
-            userId = userId,
-            totalQuestions = _service.FindQuizById(quizId)?.Items.Count??0,
-            answers = feedback.Select(a =>
-                new
-                {
-                    question = a.QuizItem.Question,
-                    answer = a.Answer,
-                    isCorrect = a.IsCorrect()
-                }
-            ).AsEnumerable()
-        };
+        return _mapper.Map<QuizFeedbackDto>(feedback);
     }
 }

@@ -8,12 +8,19 @@ using FluentValidation.AspNetCore;
 using Infrastructure.Memory;
 using Infrastructure.Memory.Repositories;
 using Web;
+using WebApi.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddControllers();
+
+
+builder.Services.AddControllers()
+    .AddNewtonsoftJson();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<IValidator<QuizItem>, QuizItemValidator>();
+builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IGenericGenerator<int>, IntGenerator>();
