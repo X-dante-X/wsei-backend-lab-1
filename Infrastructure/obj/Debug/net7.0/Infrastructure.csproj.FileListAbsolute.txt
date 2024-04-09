@@ -14,3 +14,5 @@ D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\obj\Debug\
 D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache

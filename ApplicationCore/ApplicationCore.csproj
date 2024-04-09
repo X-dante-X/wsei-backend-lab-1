@@ -7,8 +7,13 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="Excpetions\**" />
+      <EmbeddedResource Remove="Excpetions\**" />
+      <None Remove="Excpetions\**" />
+    </ItemGroup>
+
+    <ItemGroup>
       <Folder Include="Commons" />
-      <Folder Include="Excpetions\" />
     </ItemGroup>
 
 </Project>
