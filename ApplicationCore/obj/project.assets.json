@@ -1,38 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "D:\\Users\\yevhenii.solomchenko\\.nuget\\packages\\": {}
+    "C:\\Users\\solom\\.nuget\\packages\\": {},
+    "D:\\user\\Приложения\\Visual Studio\\SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj",
-      "packagesPath": "D:\\Users\\yevhenii.solomchenko\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\obj\\",
+      "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj",
+      "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\user\\Приложения\\Visual Studio\\SDK\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "D:\\Users\\yevhenii.solomchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\solom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -40,16 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

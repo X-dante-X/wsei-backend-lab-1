@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\Infrastructure\
+build_property.ProjectDir = D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

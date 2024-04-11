@@ -1,0 +1,12 @@
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll

@@ -18,8 +18,7 @@ public class QuizDbContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         base.OnConfiguring(optionsBuilder);
-        optionsBuilder.UseSqlServer(
-            "DATA SOURCE=SF_13\\SQLEXPRESS;DATABASE=Quizzes;Integrated Security=true;TrustServerCertificate=True");
+        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Quizes;Username=postgres;Password=postgres;");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
