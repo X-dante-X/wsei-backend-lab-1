@@ -50,14 +50,21 @@ public class QuizAdminServiceEF : IQuizAdminService
 
     public IQueryable<QuizItem> FindAllQuizItems()
     {
-        return _context.QuizItems.Select(q => _mapper.Map<QuizItem>(q)).AsQueryable();
+        return _context.QuizItems.AsNoTracking()
+            .Select(q => _mapper.Map<QuizItem>(q))
+            .ToList()
+            .AsQueryable();
     }
 
     public IQueryable<Quiz> FindAllQuizzes()
     {
-        var quizEntities = _context.Quizzes.ToList();
-        var quizzes = _mapper.Map<List<Quiz>>(quizEntities);
-        return quizzes.AsQueryable();
+        return _context.Quizzes
+            .AsNoTracking()
+            .Include(q => q.Items)
+            .ThenInclude(i => i.IncorrectAnswers)
+            .Select(q => _mapper.Map<Quiz>(q))
+            .ToList()
+            .AsQueryable();
     }
 
     public IEnumerable<Quiz> FindBySpecification(ISpecification<Quiz> specification)

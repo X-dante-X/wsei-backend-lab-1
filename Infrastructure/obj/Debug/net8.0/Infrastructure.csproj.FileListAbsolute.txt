@@ -9,10 +9,10 @@ D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Deb
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
-D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

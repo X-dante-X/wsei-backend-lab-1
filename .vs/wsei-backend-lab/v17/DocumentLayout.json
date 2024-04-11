@@ -1,101 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\",
+  "WorkspaceRootPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\services\\quizadminserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\services\\quizadminserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\services\\quizuserserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\services\\quizuserserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\services\\quizuserserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\mappers\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\mappers\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\mappers\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\memory\\repositories\\memorygenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\memory\\repositories\\memorygenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\memory\\repositories\\memorygenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\applicationcore\\interfaces\\userservice\\quizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\applicationcore\\interfaces\\userservice\\quizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\userservice\\quizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\entities\\quizitemuseranswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\entities\\quizitemuseranswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizitemuseranswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\entities\\quizentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\entities\\quizentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\entities\\quizitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\entities\\quizitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\entities\\quizitemanswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\entities\\quizitemanswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizitemanswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\applicationcore\\exeptions\\quiznotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\applicationcore\\exeptions\\quiznotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\exeptions\\quiznotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\applicationcore\\exeptions\\quizansweritemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\applicationcore\\exeptions\\quizansweritemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\exeptions\\quizansweritemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\applicationcore\\models\\quizaggregate\\quizitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\applicationcore\\models\\quizaggregate\\quizitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\quizaggregate\\quizitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\applicationcore\\models\\quizaggregate\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\applicationcore\\models\\quizaggregate\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\quizaggregate\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\infrastructure\\ef\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\infrastructure\\ef\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\dto\\newquizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\dto\\newquizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\newquizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\dto\\quizfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\dto\\quizfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\quizfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\yevhenii.solomchenko\\documents\\github\\backend\\webapi\\dto\\newquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\projects\\back-end\\learning exercise\\wsei-backend-lab-1\\webapi\\dto\\newquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\newquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,8 +110,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizAdminServiceEF.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Services\\QuizAdminServiceEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\QuizAdminServiceEF.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Services\\QuizAdminServiceEF.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Services\\QuizAdminServiceEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:35:48.724Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -126,319 +143,292 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemoryGenericRepository.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAA8wEIAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T14:19:40.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QuizUserService.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Interfaces\\UserService\\QuizUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Interfaces\\UserService\\QuizUserService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\UserService\\QuizUserService.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Interfaces\\UserService\\QuizUserService.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Interfaces\\UserService\\QuizUserService.cs",
               "RelativeToolTip": "ApplicationCore\\Interfaces\\UserService\\QuizUserService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowC0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T14:18:47.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T14:18:47.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizUserServiceEF.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:46:36.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizItemEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:30:00.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "QuizUserServiceEF.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
-              "RelativeToolTip": "Infrastructure\\EF\\Services\\QuizUserServiceEF.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:46:36.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuizItemEntity.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
-              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:30:00.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "QuizDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\QuizDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\QuizDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\EF\\QuizDbContext.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\QuizDbContext.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\QuizDbContext.cs",
               "RelativeToolTip": "Infrastructure\\EF\\QuizDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAAqAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwBUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T13:31:56.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "QuizItemUserAnswerEntity.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
               "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
               "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:30:45.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "QuizItemAnswerEntity.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
-              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:31:09.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Mapper\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "WebApi\\Mapper\\AutoMapperProfiles.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Mapper\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "WebApi\\Mapper\\AutoMapperProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:15:31.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutoMapper.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Mappers\\AutoMapper.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EF\\Mappers\\AutoMapper.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Mappers\\AutoMapper.cs",
-              "RelativeToolTip": "Infrastructure\\EF\\Mappers\\AutoMapper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:35:46.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:47:21.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuizEntity.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizEntity.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizEntity.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\QuizEntity.cs",
-              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:29:33.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Infrastructure",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-09T13:25:31.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:30:45.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "QuizNotFoundException.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
-              "RelativeToolTip": "ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
+              "Title": "QuizItemAnswerEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:31:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Mapper\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "WebApi\\Mapper\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Mapper\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "WebApi\\Mapper\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:15:31.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemoryGenericRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Memory\\Repositories\\MemoryGenericRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA8wEIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:19:40.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Mappers\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Mappers\\AutoMapper.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Mappers\\AutoMapper.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Mappers\\AutoMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:35:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:47:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:56:55.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:29:33.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T13:25:31.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "QuizAnswerItemAlreadyExistsException.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
-              "RelativeToolTip": "ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Title": "QuizNotFoundException.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
+              "RelativeToolTip": "ApplicationCore\\Exeptions\\QuizNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:55:39.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:56:55.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "QuizItem.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
-              "RelativeToolTip": "ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "QuizAnswerItemAlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
+              "RelativeToolTip": "ApplicationCore\\Exeptions\\QuizAnswerItemAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:39:30.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:55:39.058Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Quiz.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
-              "RelativeToolTip": "ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
+              "Title": "QuizItem.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\QuizAggregate\\QuizItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:39:50.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:39:30.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\UserEntity.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\EF\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "Infrastructure\\EF\\Entities\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\QuizAggregate\\Quiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T13:31:27.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:39:50.499Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "NewQuizItemDto.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\NewQuizItemDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\NewQuizItemDto.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\NewQuizItemDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\NewQuizItemDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\EF\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:39:18.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T13:31:27.866Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "QuizItemValidator.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Validators\\QuizItemValidator.cs",
-              "RelativeDocumentMoniker": "WebApi\\Validators\\QuizItemValidator.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Validators\\QuizItemValidator.cs",
-              "RelativeToolTip": "WebApi\\Validators\\QuizItemValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "NewQuizItemDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\NewQuizItemDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\NewQuizItemDto.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\NewQuizItemDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\NewQuizItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:33:07.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "QuizDto.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\QuizDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizDto.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\QuizDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\QuizDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:25:44.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "QuizFeedbackDto.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\QuizFeedbackDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizFeedbackDto.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\QuizFeedbackDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\QuizFeedbackDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:18:59.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "NewQuizDto.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\NewQuizDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\NewQuizDto.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Dto\\NewQuizDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\NewQuizDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:30:25.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T15:39:18.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ApiQuizAdminController.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Controllers\\ApiQuizAdminController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\ApiQuizAdminController.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Controllers\\ApiQuizAdminController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\ApiQuizAdminController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAADgv0sAAAAJAAAA",
+              "Title": "QuizItemValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Validators\\QuizItemValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\QuizItemValidator.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Validators\\QuizItemValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\QuizItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:26:58.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T15:33:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuizDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\QuizDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizDto.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\QuizDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\QuizDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:25:44.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuizFeedbackDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\QuizFeedbackDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizFeedbackDto.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\QuizFeedbackDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\QuizFeedbackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:18:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewQuizDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\NewQuizDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\NewQuizDto.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Dto\\NewQuizDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\NewQuizDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:30:25.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "ApiQuizAdminController.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADgv0sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:26:58.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ApiQuizUserController.cs",
-              "DocumentMoniker": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Controllers\\ApiQuizUserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Controllers\\ApiQuizUserController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ApiQuizUserController.cs",
-              "ToolTip": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\WebApi\\Controllers\\ApiQuizUserController.cs",
+              "ToolTip": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\WebApi\\Controllers\\ApiQuizUserController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ApiQuizUserController.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAwwDsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:23:19.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-03-26T14:23:19.242Z"
             }
           ]
         }

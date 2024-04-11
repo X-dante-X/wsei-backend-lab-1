@@ -248,9 +248,9 @@ D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\s
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\scopedcss\projectbundle\Web.bundle.scp.css
-D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\Web.csproj.CopyComplete
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\Web.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\refint\Web.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\Web.pdb
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\ref\Web.dll
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\Web\obj\Debug\net8.0\Web.csproj.Up2Date

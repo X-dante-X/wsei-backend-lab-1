@@ -529,9 +529,9 @@ D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
-D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.csproj.CopyComplete
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\refint\WebApi.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.pdb
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
