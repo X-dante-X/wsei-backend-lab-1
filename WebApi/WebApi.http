@@ -30,3 +30,21 @@ Content-Type: application/json-patch+json
     "value": "Arytmetyka"
   }
 ]
+###
+POST https://localhost:7119/api/authentication/login
+Content-Type: application/json
+
+{
+  "loginName": "karol",
+  "password" : "1234ABcd$"
+}
+###
+
+POST  https://localhost:7119/api/v1/quizzes/1/items/1/answer
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoia2Fyb2wiLCJnZW5kZXIiOiJtYWxlIiwiZW1haWwiOiJrYXJvbEB3c2VpLmVkdS5wbCIsImV4cCI6MTcxMzI3ODMyMCwianRpIjoiODIyMDgwYjEtYTM3MS00ZDAzLWJjYWYtY2I5Y2FiZjM4NDI2IiwiYXVkIjoid3NlaSIsImlzcyI6IndzZWkifQ.uX1vTeTsRrridwEdf6N5Ctp8icUceV6o9iIvjmbaByE
+
+{
+  "userId": 1,
+  "answer": "5"
+}

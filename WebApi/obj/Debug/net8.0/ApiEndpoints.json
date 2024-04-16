@@ -1,7 +1,23 @@
 [
   {
+    "ContainingType": "WebApi.Controllers.AuthenticationController",
+    "Method": "Authenticate",
+    "RelativePath": "api/authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "WebApi.Dto.LoginUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.ApiQuizAdminController",
-    "Method": "CreateQuiz",
+    "Method": "AddQuiz",
     "RelativePath": "api/v1/admin/quizzes",
     "HttpMethod": "POST",
     "IsController": true,
@@ -126,12 +142,22 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "WebApi.Dto.QuizFeedbackDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "WebApi.Controllers.ApiQuizUserController",
     "Method": "SaveAnswer",
-    "RelativePath": "api/v1/user/quizzes/{quizId}/items/{itemId}/answers/{userId}",
+    "RelativePath": "api/v1/user/quizzes/{quizId}/items/{itemId}/answers",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -143,11 +169,6 @@
       },
       {
         "Name": "itemId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "userId",
         "Type": "System.Int32",
         "IsRequired": true
       },

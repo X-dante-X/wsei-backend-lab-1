@@ -535,3 +535,37 @@ D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\ref\WebApi.dll
 D:\Projects\Back-end\learning exercise\wsei-backend-lab-1\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\JWT.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\yevhenii.solomchenko\Documents\GitHub\backend\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll

@@ -1,4 +1,5 @@
 ﻿using Infrastructure.EF.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.EF;
 
-public class QuizDbContext : DbContext
+public class QuizDbContext : IdentityDbContext<UserEntity, UserRole, int>
 {
     public DbSet<QuizEntity> Quizzes { get; set; }
     public DbSet<QuizItemEntity> QuizItems { get; set; }
@@ -18,7 +19,8 @@ public class QuizDbContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         base.OnConfiguring(optionsBuilder);
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Quizes;Username=postgres;Password=postgres;");
+        //optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Quizes;Username=postgres;Password=postgres;");
+        optionsBuilder.UseSqlServer("Data Source=SF_13\\SQLEXPRESS;Database=Quizes;Integrated Security=true;TrustServerCertificate=True;");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

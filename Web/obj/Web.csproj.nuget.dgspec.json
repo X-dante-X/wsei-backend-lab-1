@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Web\\Web.csproj": {}
+    "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Web\\Web.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\obj\\",
+        "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "D:\\Users\\yevhenii.solomchenko\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\user\\Приложения\\Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\solom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\yevhenii.solomchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,25 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "D:\\Users\\yevhenii.solomchenko\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\user\\Приложения\\Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\solom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\yevhenii.solomchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,15 +82,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -123,6 +113,10 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -130,6 +124,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
@@ -154,25 +152,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Web\\Web.csproj": {
+    "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Web\\Web.csproj",
+        "projectUniqueName": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Web\\Web.csproj",
-        "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Web\\obj\\",
+        "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Web\\Web.csproj",
+        "packagesPath": "D:\\Users\\yevhenii.solomchenko\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\user\\Приложения\\Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\solom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\yevhenii.solomchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,18 +174,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Projects\\Back-end\\learning exercise\\wsei-backend-lab-1\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Users\\yevhenii.solomchenko\\Documents\\GitHub\\backend\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -235,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
